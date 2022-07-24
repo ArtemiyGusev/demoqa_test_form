@@ -5,6 +5,10 @@ from tests.controls.application_manager import app
 from env import *
 from selene.support.shared.jquery_style import s, ss
 
+import pytest,sys
+if __name__ == '__main__':
+    pytest.main([sys.argv[0], '-vvv',])
+    exit(0)
 
 def test_case_practice_form():
     allure.dynamic.tag("Web application")
@@ -48,3 +52,5 @@ def test_case_practice_form():
 
     with allure.step('Проверяем результаты отправленных данных в таблицe'):
         app.check_table_text(ss(table_name)).check_expected_result_in_table(*expected_result_in_table)
+
+
