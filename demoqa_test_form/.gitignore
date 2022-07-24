@@ -11,7 +11,7 @@ tests/adhoc/test_anything.py
 custom.png
 
 # allure
-allure-results/
+../allure-results/
 allure-report/
 
 # JetBrains
