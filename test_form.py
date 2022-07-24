@@ -1,9 +1,9 @@
 import allure
 from allure_commons.types import Severity
-from demoqa_test_form.tests.controls.application_manager import app
+from tests.controls.application_manager import app
 from selene.support.shared.jquery_style import s, ss
-from demoqa_test_form.env import *
-from demoqa_test_form.tests.helper.acceptance_test_modul import url_open_size, add_file
+from env import *
+from tests.helper.acceptance_test_modul import url_open_size, add_file
 
 
 def test_case_practice_form():

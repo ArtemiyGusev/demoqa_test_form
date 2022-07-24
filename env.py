@@ -1,4 +1,4 @@
-from demoqa_test_form.tests.controls.datepicker import now_date
+from tests.controls.datepicker import now_date
 
 table_name = 'table td'
 send_data = '#submit'
