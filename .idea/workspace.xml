@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fd3007a-98ef-45bd-8197-48b0f4e033e5" name="Changes" comment="test12">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7fd3007a-98ef-45bd-8197-48b0f4e033e5" name="Changes" comment="test12" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,6 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1658672624171</updated>
       <workItem from="1658672626382" duration="5125000" />
+      <workItem from="1658678385323" duration="565000" />
     </task>
     <task id="LOCAL-00001" summary="test7">
       <created>1658673265792</created>
@@ -216,7 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658676914944</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="test12">
+      <created>1658678451962</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658678451963</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test12">
+      <created>1658678646834</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1658678646834</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +256,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="test12" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/demoqa_test_form$.coverage" NAME=" Coverage Results" MODIFIED="1658676374242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demoqa_test_form" />
+    <SUITE FILE_PATH="coverage/demoqa_test_form$.coverage" NAME=" Coverage Results" MODIFIED="1658678387934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demoqa_test_form" />
   </component>
 </project>
