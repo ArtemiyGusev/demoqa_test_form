@@ -41,7 +41,7 @@ def test_case_practice_form():
         app.drop_down(s(list_city)).select_element_in_dropdown(element_in_list_city)
 
     with allure.step('Добавляем картинку в поле загрузки файла'):
-        add_file(send_picture_button, file_name=file_name)
+        add_file(send_picture_button, file_name=file_name1)
 
     with allure.step('Кликаем по кнопки "Отправить форму"'):
         s(send_data).click()

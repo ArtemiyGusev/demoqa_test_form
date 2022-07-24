@@ -3,7 +3,7 @@ from tests.controls.datepicker import now_date
 table_name = 'table td'
 send_data = '#submit'
 send_picture_button = '#uploadPicture'
-file_name = '../resources/123.png'
+file_name1 = '../resources/123.png'
 element_in_list_city = '//*[contains(text(),"Delhi")]'
 list_city = '#city'
 element_in_list_state = '//*[contains(text(),"NCR")]'
