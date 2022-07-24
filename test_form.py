@@ -46,5 +46,5 @@ def test_case_practice_form():
     with allure.step('Кликаем по кнопки "Отправить форму"'):
         s(send_data).click()
 
-    with allure.step('Проверяем результаты отправленных данных в таблиц3'):
+    with allure.step('Проверяем результаты отправленных данных в таблицe'):
         app.check_table_text(ss(table_name)).check_expected_result_in_table(*expected_result_in_table)
