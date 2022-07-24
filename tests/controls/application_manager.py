@@ -1,7 +1,7 @@
-from tests.controls.dropdown import DropDown
-from tests.controls.check_table_text import CheckTableText
-from tests.controls.datepicker import DatePicker
-from tests.controls.subject import Subject
+from demoqa_test_form.tests.controls.dropdown import DropDown
+from demoqa_test_form.tests.controls.check_table_text import CheckTableText
+from demoqa_test_form.tests.controls.datepicker import DatePicker
+from demoqa_test_form.tests.controls.subject import Subject
 
 
 class ApplicationManager:
