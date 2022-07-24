@@ -1,8 +1,8 @@
 import allure
 from allure_commons.types import Severity
+from env import *
 from tests.controls.application_manager import app
 from selene.support.shared.jquery_style import s, ss
-from env import *
 from tests.helper.acceptance_test_modul import url_open_size, add_file
 
 
